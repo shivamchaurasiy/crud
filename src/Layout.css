@@ -1,0 +1,11 @@
+.footer{
+    text-align: center;
+    
+}
+.navbar, Link{
+    font-size: 23px;
+    
+}
+.nav-item, Link{
+    margin-left: 50px;
+}
